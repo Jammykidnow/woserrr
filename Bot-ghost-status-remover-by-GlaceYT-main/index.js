@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Tennessee State Roleplay Utilities bot","#TennesseeRPonTOP"];
 
 
 let currentIndex = 0;
